@@ -21,7 +21,7 @@ This app features smooth scrolling navigation, animated sections, a hero section
 ## Screenshots
 
 ### Home Page
-![Page](assets/screen1.jpg)
+![Page](src/assets/screen1.jpg)
 
 ---
 

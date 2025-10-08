@@ -5,13 +5,6 @@ This app features smooth scrolling navigation, animated sections, a hero section
 
 ---
 
-## Demo
-
-Open the app locally:  
-http://localhost:5173/
-
-
----
 
 ## Features
 

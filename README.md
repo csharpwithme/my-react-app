@@ -41,5 +41,4 @@ This app features smooth scrolling navigation, animated sections, a hero section
 
 ```bash
 git clone https://github.com/csharpwithme/my-react-app.git
-git clone https://github.com/csharpwithme/my-react-app.git
-cd my-react-app
+
